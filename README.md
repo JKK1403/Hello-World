@@ -1,6 +1,5 @@
 # Hello-World
 
-Test - Use
 
 $configuration = DocRaptor\Configuration::getDefaultConfiguration();
 $configuration->setUsername("YOUR_API_KEY_HERE");
